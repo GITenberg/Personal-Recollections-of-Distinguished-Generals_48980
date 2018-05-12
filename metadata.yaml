@@ -1,10 +1,16 @@
 _repo: Personal-Recollections-of-Distinguished-Generals_48980
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48980-h/images/cover.jpg
 creator:
   author:
     agent_name: Shanks, William Franklin Gore
     gutenberg_agent_id: '45075'
     url: http://www.gutenberg.org/2009/agents/45075
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48980#Personal-Recollections-of-Distinguished-Generals
 gutenberg_issued: '2015-05-17'
 gutenberg_type: Text
 identifiers:
